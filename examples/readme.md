@@ -1,1 +1,1 @@
-# This directory includessample images for testing
+# This directory includes sample images for testing
